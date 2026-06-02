@@ -35,9 +35,19 @@ They also belive they are having a hard time retaining customers and would like 
 3. Analyze “user sign-ups." Using the results, investigate the correlation between time of joining (created_at in the users table), type of subscription, and number of tests completed. Finally, investigate the team's theories regarding customer churn. 
 
 ## Skills
-SQL: CTEs, JOINS, aggregations (COUNT, SUM, MIN/MAX), CASE-based logic, subqueries, filtering, and grouped analysis (GROUP BY, DISTINCT)
+**SQL**
+- CTEs
+- JOINS
+- aggregations (COUNT, SUM, MIN/MAX)
+- CASE-based logic
+- subqueries
+- filtering
+- grouped analysis (GROUP BY, DISTINCT)
 
-Tools: MySQLWorkbench, Jupyter Notebook (query documentation), ERDPlus (Relational Schema Design)
+**Tools**
+- MySQLWorkbench
+- Jupyter Notebook (query documentation)
+- ERDPlus (Relational Schema Design)
 
 ## Key Analysis & Results
 
