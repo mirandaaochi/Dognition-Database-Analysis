@@ -1,4 +1,4 @@
-# Dognition-Database-Analysis
+# Database Analysis & Customer Insights for Dognition
 This was a project completed for Decision 519Q: Data Infrastructure as part of the Master of Quantitative Management: Business Analytics program at the Duke University Fuqua School of Business.
 
 Due to privacy constraints, code, screenshots, and other related materials cannot be shared.
